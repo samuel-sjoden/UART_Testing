@@ -16,5 +16,5 @@ Flash the sending ESP32 with the sending project and the receiving ESP32 with th
 receiving project. Connect the RX1 and TX1 pins together. The pins are defined at the top
 of each main file.
 
-Connect a serial monitor to each ESP32 (if using pio: pio device monitor -b 115200).
+Connect a serial monitor to each ESP32. By default the baud rate is set to 115200.
 
